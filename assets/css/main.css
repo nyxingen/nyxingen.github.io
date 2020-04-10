@@ -273,6 +273,8 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.contideo{ width: 370px; overflow:hidden; display:block; height: 217px; } #glass{ margin-left: -150px; margin-top: -300px;}
+
 		@media screen and (max-width: 980px) {
 
 			.container {
